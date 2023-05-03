@@ -1,7 +1,6 @@
 import { useCallback, useEffect, useState } from 'react'
 import Button from '@mui/material/Button'
 import TextField from '@mui/material/TextField'
-import Divider from '@mui/material/Divider'
 import Box from '@mui/material/Box'
 import Web3 from 'web3'
 import Web3Modal from '@klaytn/web3modal'
